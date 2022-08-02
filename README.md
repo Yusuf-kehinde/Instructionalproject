@@ -5,10 +5,12 @@ I built this with instructions gotten from a video seen on YouTube.
 To start, build and run the code using the compiler.
 There will be a pop up of the output on a console. The program is pretty user friendly.
 There will be two instructions to choose from on the console, either of 1 and 2. 
+
 	1. Register an account
 	2. Login to your account
+	
 Nb: it is important to ensure that you press "Enter" after making your choice
-Also, it is very important to note that you have to register an account before yu can login
+Also, it is very important to note that you have to register an account before you can login
 
 Some fields will be open for you to answer when you choose either of the two options, ensure that no white space is written as part of your answer, very important.
 Also, Phone number and Password is part of the field, ensure you nte them down as this will most likely be required one time or the other during your transaction.
